@@ -17,6 +17,7 @@ Big-O: (n*(n-1))/2 = (n^2 - n)/2 ---> O(n^2)
 
 Time Complexity: Average Case
 
+
 Question 2:
 
 [7, 3, 5, 8, 2, 9, 4, 15, 6] --> First 4 Step based on Selection Sort
